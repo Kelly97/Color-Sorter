@@ -1,7 +1,7 @@
 # Color-Sorter
 _Proyecto de la asignatura Arquitectura de computadores_
 
-## 📋 Instrucciones 
+# Instrucciones 
 En las carpetas puede encontrar todos los recursos empleados para la elaboración del proyecto:
 
 ### 💻 Arduino Code:
