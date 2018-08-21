@@ -19,3 +19,6 @@ _Es necesario disponer de una cuenta de google._
     
 ### 📐 Planos e iconos APK: 
 _En esta carpeta encontrará un archivo .cdr que puede abrir con CorelDraw X8 o superior. En este archivo se encuentran los planos para la construcción del armazón de nuestro proyecto. También encontrará los iconos utilizados en este._
+
+### 📷 Fotos
+_Se muestran fotografías del proyecto terminado._
