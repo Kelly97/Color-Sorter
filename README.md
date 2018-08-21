@@ -1,4 +1,4 @@
-# Color-Sorter
+# Color Sorter
 _Proyecto de la asignatura Arquitectura de computadores_
 
 # Instrucciones 
