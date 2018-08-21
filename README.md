@@ -8,8 +8,10 @@ En las carpetas puede encontrar todos los recursos empleados para la elaboració
 _El código que reside en el arduino._
     
 ### 📱 Aplicación Móvil:
-_En el pdf se muestran los bloques creado en la aplicación web MIT app inventor 2.
+_En el pdf se muestran los bloques creado en la aplicación web MIT app inventor 2._
+
 _El archivo con extensión .aia se puede importar en la aplicación web antes mencionda._
+
 _Finalmente se tiene el apk, que puede ser instalado en el teléfono móvil, para que la aplicación móvil pueda funcionar correctamente, es necesario disponer de un teléfono con Android 5.0 o superior._
     
 _Puede encontrar la aplicación web utilizada para la construcción de nuestra aplicación móvil en: http://ai2.appinventor.mit.edu/_
